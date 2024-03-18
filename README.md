@@ -1,0 +1,1 @@
+Main Color [Y:#FFE998, R:#DE7D76, B:#7399CA]
